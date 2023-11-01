@@ -1,0 +1,32 @@
+.header-nav-item{
+    list-style: none;
+    float: right;
+    padding: 5px;
+    position: relative;
+    top: -50px;
+}
+
+.img{
+    float: right;
+    position: relative;
+    top: 10px;
+    left: 300px;
+
+}
+
+.letter{
+    float: left;
+    position: relative;
+    top: -150px;
+    font-size: 50px;
+}
+
+.background-color{
+    background-color: blue;
+    float: left;
+    width: 1000px;
+    height: 100px;
+    position: relative;
+    top: -10px;
+    right: 300px;
+}
